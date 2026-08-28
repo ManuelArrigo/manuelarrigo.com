@@ -1,21 +1,21 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "home.html",
+    "href": "home.html",
     "title": "Manuel Arrigo",
     "section": "",
     "text": "PhD Student in Sport Economics at the University of Lausanne.\nMy research interests include Behavioral Economics, Sports Economics, and Applied Microeconomics."
   },
   {
-    "objectID": "index.html#current-research",
-    "href": "index.html#current-research",
+    "objectID": "home.html#current-research",
+    "href": "home.html#current-research",
     "title": "Manuel Arrigo",
     "section": "Current research",
     "text": "Current research\nI work on topics related to performance reactions, discrimination, and behavioral responses to information."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
+    "objectID": "home.html#contact",
+    "href": "home.html#contact",
     "title": "Manuel Arrigo",
     "section": "Contact",
     "text": "Contact\nEmail: manuel.arrigo[at]unil.ch"
@@ -40,26 +40,5 @@
     "title": "Research",
     "section": "Work in Progress",
     "text": "Work in Progress\n\nPrice Updating in Fantasy Football Markets\nThis project studies how market participants update valuations following recent salient information."
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Manuel Arrigo",
-    "section": "",
-    "text": "PhD Student in Sport Economics at the University of Lausanne.\nMy research interests include Behavioral Economics, Sports Economics, and Applied Microeconomics."
-  },
-  {
-    "objectID": "home.html#current-research",
-    "href": "home.html#current-research",
-    "title": "Manuel Arrigo",
-    "section": "Current research",
-    "text": "Current research\nI work on topics related to performance reactions, discrimination, and behavioral responses to information."
-  },
-  {
-    "objectID": "home.html#contact",
-    "href": "home.html#contact",
-    "title": "Manuel Arrigo",
-    "section": "Contact",
-    "text": "Contact\nEmail: manuel.arrigo[at]unil.ch"
   }
 ]
