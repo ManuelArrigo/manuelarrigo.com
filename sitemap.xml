@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.manuelarrigo.com/index.html</loc>
-    <lastmod>2026-08-28T15:59:47.089Z</lastmod>
+    <loc>https://www.manuelarrigo.com/home.html</loc>
+    <lastmod>2026-08-28T17:43:00.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.manuelarrigo.com/research.html</loc>
+    <lastmod>2026-08-28T17:49:09.126Z</lastmod>
   </url>
 </urlset>
