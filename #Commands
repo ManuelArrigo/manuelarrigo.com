@@ -2,14 +2,13 @@
 
 **Modify the website**
 Pages: in .qmd !
-CEO: quarto.yml
+Controllo centrale: quarto.yml
 
 **Preview**
 run: quarto preview
-oppure nel browser: http://localhost:7791/
 
 **Publish**
-run all this:
+run all this quando sei pronto:
 git add .
 git commit -m "Update website"
 git push

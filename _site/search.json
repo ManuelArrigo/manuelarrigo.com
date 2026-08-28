@@ -4,7 +4,7 @@
     "href": "home.html",
     "title": "Manuel Arrigo",
     "section": "",
-    "text": "PhD Student in Sport Economics at the University of Lausanne.\nMy research interests include Behavioral Economics, Sports Economics, and Applied Microeconomics."
+    "text": "PhD Student in Sport Economics at the University of Lausanne.\nWebsite under construction :) – come back tomorrow!\nEmail: manuel.arrigo[at]unil.ch"
   },
   {
     "objectID": "home.html#current-research",
@@ -40,5 +40,12 @@
     "title": "Research",
     "section": "Work in Progress",
     "text": "Work in Progress\n\nPrice Updating in Fantasy Football Markets\nThis project studies how market participants update valuations following recent salient information."
+  },
+  {
+    "objectID": "home.html#test",
+    "href": "home.html#test",
+    "title": "Manuel Arrigo",
+    "section": "Test",
+    "text": "Test\nThis is an image stored inside my website."
   }
 ]
