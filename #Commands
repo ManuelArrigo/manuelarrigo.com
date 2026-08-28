@@ -1,11 +1,32 @@
-####Commands
+**COMMANDS**
 
-Modify the website --> in index.qmd
+**Modify the website**
+Pages: in .qmd !
+CEO: quarto.yml
 
-Preview --> quarto preview
+**Preview**
+run: quarto preview
+oppure nel browser: http://localhost:7791/
 
-Publish:
-```
+**Publish**
+run all this:
+git add .
+git commit -m "Update website"
+git push
+quarto publish gh-pages
+
+**Font and style**
+*parola* --> italics
+**parola** --> bold
+[testo visibile](link) --> crea un link
+#Titolone
+##Sezione
+###Sottorezione
+- elemento
 
 
-````
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+

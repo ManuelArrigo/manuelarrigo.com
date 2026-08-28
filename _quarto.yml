@@ -3,8 +3,16 @@ project:
 
 website:
   title: "Manuel Arrigo"
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: false
+
+

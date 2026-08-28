@@ -1,0 +1,19 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### When Good Luck Turns Against You
+
+*with Markus Lang and Carlos Gomez-Gonzalez*
+
+This paper studies how individuals respond to noisy feedback in competitive environments.
+
+[PDF coming soon]
+
+## Work in Progress
+
+### Price Updating in Fantasy Football Markets
+
+This project studies how market participants update valuations following recent salient information.
