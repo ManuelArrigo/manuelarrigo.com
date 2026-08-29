@@ -5,7 +5,7 @@ website:
   title: "Manuel Arrigo"
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
