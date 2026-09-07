@@ -1,0 +1,28 @@
+---
+pagetitle: "CV | Manuel Arrigo"
+description: "Curriculum vitae of Manuel Arrigo."
+page-layout: full
+---
+
+::: {.page-shell .inner-page}
+
+::: {.cv-heading}
+::: {.cv-heading-copy}
+<h1>Curriculum Vitae</h1>
+
+Download the PDF or view it below.
+:::
+
+<!-- EDIT HERE: if the PDF filename changes, update BOTH the href and the object data below. -->
+[Download CV ↓](cv/Manuel_Arrigo_CV.pdf){.button-link download="Manuel_Arrigo_CV.pdf"}
+:::
+
+```{=html}
+<div class="cv-object-wrap">
+  <object class="cv-object" data="./cv/Manuel_Arrigo_CV.pdf" type="application/pdf" aria-label="Manuel Arrigo curriculum vitae PDF"></object>
+</div>
+```
+
+<p class="cv-fallback">If the preview does not load on your device, <a href="cv/Manuel_Arrigo_CV.pdf">open the PDF directly</a>.</p>
+
+:::
