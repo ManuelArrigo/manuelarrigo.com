@@ -108,6 +108,37 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<style>
+.hero-portrait-mobile {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .hero > .hero-portrait {
+    display: none;
+  }
+
+  .hero-portrait-mobile {
+    display: block;
+    margin: 1.35rem 0 1.15rem;
+    max-width: 290px;
+  }
+
+  .profile-links > p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin: 0;
+    width: 100%;
+  }
+
+  .profile-link {
+    align-items: center;
+    display: inline-flex;
+    line-height: 1.25;
+  }
+}
+</style>
 <div class="page-shell">
 <div class="hero">
 <div class="hero-copy">
@@ -122,6 +153,9 @@ PhD Candidate in Sport Economics
 <p class="hero-affiliation">
 University of Lausanne
 </p>
+<div class="hero-portrait hero-portrait-mobile">
+<p><img src="images/Main.jpg" class="hero-photo img-fluid" alt="Portrait of Manuel Arrigo"></p>
+</div>
 <p>Hi, I’m Manuel. Welcome to my website. I use economics to better understand everyday decisions, behavior, and markets. My work draws mainly on applied microeconomics and behavioral economics, with a particular interest in discrimination, reactions to luck, and how people form valuations and make decisions. I often use sport as a natural setting for these questions: incentives are strong, outcomes are observable, and rich data make it possible to study behavior in real-world, competitive environments.</p>
 <div class="profile-links">
 <p><a href="mailto:manuel.arrigo@unil.ch" class="profile-link">Email</a> <a href="./cv.html" class="profile-link">CV</a> <a href="https://scholar.google.com/citations?user=iHaCbr8AAAAJ" class="profile-link">Google Scholar</a> <a href="https://orcid.org/0009-0005-3251-9645" class="profile-link">ORCID</a> <a href="https://ch.linkedin.com/in/manuelarrigo" class="profile-link">LinkedIn</a></p>
@@ -186,7 +220,7 @@ European Sport Economics Association (ESEA)</p>
 <div class="recent-item travel-placeholder">
 <p><span class="recent-date">Upcoming travels</span></p>
 <!-- EDIT HERE: replace the next sentence with “City — Event, Month Year” when a trip is confirmed. -->
-<p>No upcoming travel is currently confirmed.</p>
+<p>No upcoming travel is currently scheduled. This section will be updated when new conference or research travel is confirmed.</p>
 </div>
 </div>
 </div>
