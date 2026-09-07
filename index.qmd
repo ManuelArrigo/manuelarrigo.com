@@ -4,6 +4,40 @@ description: "Manuel Arrigo is a PhD Candidate in Sport Economics at the Univers
 page-layout: full
 ---
 
+```{=html}
+<style>
+.hero-portrait-mobile {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .hero > .hero-portrait {
+    display: none;
+  }
+
+  .hero-portrait-mobile {
+    display: block;
+    margin: 1.35rem 0 1.15rem;
+    max-width: 290px;
+  }
+
+  .profile-links > p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin: 0;
+    width: 100%;
+  }
+
+  .profile-link {
+    align-items: center;
+    display: inline-flex;
+    line-height: 1.25;
+  }
+}
+</style>
+```
+
 ::: {.page-shell}
 
 ::: {.hero}
@@ -14,6 +48,10 @@ page-layout: full
 
 <p class="hero-role">PhD Candidate in Sport Economics</p>
 <p class="hero-affiliation">University of Lausanne</p>
+
+::: {.hero-portrait .hero-portrait-mobile}
+![](images/Main.jpg){.hero-photo alt="Portrait of Manuel Arrigo"}
+:::
 
 Hi, I'm Manuel. Welcome to my website. I use economics to better understand everyday decisions, behavior, and markets. My work draws mainly on applied microeconomics and behavioral economics, with a particular interest in discrimination, reactions to luck, and how people form valuations and make decisions. I often use sport as a natural setting for these questions: incentives are strong, outcomes are observable, and rich data make it possible to study behavior in real-world, competitive environments.
 
@@ -93,7 +131,7 @@ European Sport Economics Association (ESEA)
 <span class="recent-date">Upcoming travels</span>
 
 <!-- EDIT HERE: replace the next sentence with “City — Event, Month Year” when a trip is confirmed. -->
-No upcoming travel is currently confirmed.
+No upcoming travel is currently scheduled. This section will be updated when new conference or research travel is confirmed.
 :::
 :::
 :::
