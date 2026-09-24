@@ -104,7 +104,7 @@ Evidence from Nightlight Data in Europe
 :::
 :::
 
-::: {.section-block}
+:::: {.section-block}
 <p class="section-kicker">Recent & upcoming</p>
 
 ::: {.recent-strip}
@@ -128,13 +128,14 @@ European Sport Economics Association (ESEA)
 :::
 
 ::: {.recent-item .travel-placeholder}
-<span class="recent-date">Upcoming travels</span>
+<span class="recent-date">February–March 2027</span>
 
-<!-- EDIT HERE: replace the next sentence with “City — Event, Month Year” when a trip is confirmed. -->
-No upcoming travel is currently scheduled. This section will be updated when new conference or research travel is confirmed.
+**Research Stay in Osaka, Japan**  
+Visiting research stay
 :::
 :::
 :::
 :::
 
 :::
+

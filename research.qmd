@@ -78,8 +78,7 @@ We study how European stadium openings affect local economic activity using high
 <span class="paper-number">04</span>
 
 ::: {.paper-body}
-### Who Sees Politics in Sports? Norm Endorsement and Partisan Judgments from the 2026 World Cup
-<!-- Add a public paper URL here when one becomes available. -->
+### [Who Sees Politics in Sports? Norm Endorsement and Partisan Judgments from the 2026 World Cup](https://osf.io/preprints/socarxiv/gtjp4_v1){.paper-title-link}
 
 <p class="coauthors">with Morgan Wack, Daniel Vogler, Christian Pipal, and Lucas Paulo da Silva</p>
 
