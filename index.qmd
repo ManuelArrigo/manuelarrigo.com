@@ -78,8 +78,7 @@ Hi, I'm Manuel. Welcome to my website. I use economics to better understand ever
 
 ::: {.research-grid}
 ::: {.research-card}
-<!-- Add a public paper URL here when one becomes available. -->
-### [Discrimination Without Wage Gaps?](research.qmd#discrimination-without-wage-gaps-racial-preferences-and-workplace-segregation-in-a-virtual-labor-market){.paper-title-link}
+### [Discrimination Without Wage Gaps?](https://www.researchgate.net/publication/416688563_Discrimination_Without_Wage_Gaps_Racial_Preferences_and_Workplace_Segregation_in_a_Virtual_Labor_Market){.paper-title-link}
 
 Racial Preferences and Workplace Segregation in a Virtual Labor Market
 
