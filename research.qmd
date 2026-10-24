@@ -35,7 +35,7 @@ My research focuses on applied microeconomics and behavioral economics, often us
 <span class="paper-number">01</span>
 
 ::: {.paper-body}
-### [Discrimination Without Wage Gaps? Racial Preferences and Workplace Segregation in a Virtual Labor Market](https://www.researchgate.net/publication/416688563_Discrimination_Without_Wage_Gaps_Racial_Preferences_and_Workplace_Segregation_in_a_Virtual_Labor_Market){.paper-title-link}
+### [Discrimination Without Wage Gaps? Racial Preferences and Workplace Segregation in a Virtual Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7661180){.paper-title-link}
 
 <p class="coauthors">with Carlos Gómez-González, Alfredo Fantetti, and Markus Lang</p>
 
